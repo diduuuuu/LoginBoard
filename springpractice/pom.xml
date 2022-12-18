@@ -61,7 +61,6 @@
       <version>3.0.1</version>
       <scope>provided</scope>
     </dependency>
-
   </dependencies>
   <properties>
     <java-version>1.6</java-version>
